@@ -1,0 +1,88 @@
+h1{
+    color: rgb(232, 235, 235);
+    font-size: 65px; 
+    text-align:right;
+    font-style: italic;
+    
+
+}
+
+#resim{
+    width: 170px;
+    height: 150px;
+    margin: 1% 7% 1% 11%
+}
+
+#div1{
+    background-color: rgb(189, 127, 225);
+    display: flex;
+    flex-direction: row;
+    
+}
+
+body{
+    background: url(cvarkaplan.jpg);
+
+
+}
+
+#linkler{
+    color:rgb(189, 127, 225);
+    font-style: initial;
+    font-size: 20px;
+}
+#linkedin{
+    color: rgb(48, 14, 80);
+}
+
+#mail{
+    color: rgb(48, 14, 80);
+}
+
+#medium{
+    color: rgb(48, 14, 80);
+}
+
+#tanıtımetni{
+
+    color:rgb(241, 237, 246);
+    font-size: 40px;
+    font-style: italic;
+}
+#div2{
+    background-color: rgb(189, 127, 225);
+    border-radius: 15%;
+}
+
+.navbar{
+    background-color: aliceblue;
+
+    padding:2%;
+    text-align: center;
+}
+
+.navbar a{
+    padding: 5%;
+}
+
+#bilgilerim{
+    color: rgb(48, 14, 80);
+}
+
+#İletişim{
+    color: rgb(48, 14, 80);
+}
+
+#referans{
+    color: rgb(48, 14, 80);
+}
+#kıvır1{
+    color: rgb(48, 14, 80);
+    font-size: 100px;
+}
+
+#kıvır2{
+    color: rgb(48, 14, 80);
+font-size: 100px;
+}
+
